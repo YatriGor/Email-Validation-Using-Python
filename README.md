@@ -1,5 +1,5 @@
 # Email-Validation-Using-Python
-This repository contains two Python scripts for validating email addresses using different methods: string manipulation and regular expressions (regex).
+This repository contains two Python scripts for validating email addresses using different methods: **string manipulation** and **regular expressions** (regex).
 
 ## String Method
 This script uses basic string methods to validate email addresses. It checks:
